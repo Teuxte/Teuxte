@@ -1,0 +1,3 @@
+- 👋 Hola eu sou @Teuxte
+- 👀 estou aprendendo novas linguagens.
+- 🌱 sei sobre JavaScript e Scratch.
